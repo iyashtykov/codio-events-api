@@ -1,0 +1,8 @@
+{
+  "name": "codio-events-api",
+  "type": "helper",
+  "properties": {
+    "user_type": "all",
+    "component": "all"
+  }
+}
